@@ -5,7 +5,7 @@ from tkinter import *
 
 root = Tk()
 root.title('Chemical equation')
-root.iconbitmap('E:\\workspace\\python\\tkinter\\icon\\test.ico')
+root.iconbitmap('E:\\vscode\\python\\tkinter\\icon\\test.ico')
 elementList=[]
 elementMatrix=[]
 
